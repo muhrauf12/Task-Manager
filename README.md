@@ -9,5 +9,3 @@
     <li>Remove tasks</li>
     <li>Automatically save tasks</li>
 </ul>
-
-<p> Link: https://raafeahmed.github.io/Task-Manager/ </p>
